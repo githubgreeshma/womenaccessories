@@ -1,0 +1,115 @@
+#set{
+background-color:black;
+}
+#set li a{ 
+ background-color:yellow;}
+
+#set li a{
+ color:black;
+border:3px pink;
+  padding:2rem;
+  box-shadow:2px 3px 2px; margin-left:2rem;
+}
+
+
+
+#siz{
+  color:firebrick;
+}
+
+#amz{ font-size:4em;}
+
+#best{font-size:2em;}
+
+#text{ font-size:1.5em;}
+
+#text1{ font-size:1.5em;}
+
+#text2{ font-size:1.5em;}
+
+#text3{ font-size:1.5em;}
+
+#text4{ font-size:1.5em;}
+
+#text5{ font-size:1.5em;}
+
+#text6{ font-size:1.5em;}
+
+#text7{ font-size:1.5em;}
+
+#text8{ font-size:1.5em;}
+
+#color1{background-color:black}
+
+#acc{
+  text-align: center;
+}
+
+.row{
+  background-color: yellow;
+}
+
+.rows{
+  background-color: grey;
+}
+
+#head{
+  text-align: center;
+  background-color: yellowgreen;
+  }
+
+#h1{
+  text-align: center;
+  background-color:black;
+  
+}
+
+.info{
+  background-color: crimson;
+  text-align: center;
+}
+
+.head{
+  background-color: black;
+  text-align: center;
+}
+
+.form{
+  background-color: crimson;
+text-align: center;
+  
+}
+
+.header{
+  background-color: black;
+  text-align: center;
+}
+
+#former{
+  text-align: center;
+ 
+}
+
+#head{
+  text-align: center;
+  background-color: yellowgreen;
+  }
+
+  .home{
+  background-color: black;
+  text-align: center;
+  color:yellow;
+  
+}
+
+.tab{
+  text-align: center;
+}
+
+.back{
+  background-color:darkcyan;
+}
+
+ .jewels{
+ background-color:red;
+ }
